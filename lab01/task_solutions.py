@@ -139,5 +139,5 @@ print_2D_list(lista3,dim)
 lista4 = [[1 if i==dim-1-j or i==j else 0 for j in range(dim)] for i in range(dim)]
 print_2D_list(lista4,dim)
 
-lista5 = [[1 if i%2 != j%2 else 0 for j in range(dim)] for i in range(dim)]
+lista5 = [[1 if (i+j)%2 else 0 for j in range(dim)] for i in range(dim)]
 print_2D_list(lista5,dim)

@@ -1,3 +1,5 @@
+# Funkcje 
+
 1. Proszę napisać funkcję przyjmującą jako parametr string (przy wywołaniu będziemy przekazać argument wiersza poleceń). Zakładamy, że string ten zawiera poprawną definicję wyrażenia/funkcji matematycznej z jedną zmienną x, czyli np. 'a*x+b', 'a*x**2+b*x+c'. W miejscu wszystkich stałych proszę wstawić losowe liczby całkowite z przedziału [0,10), proszę wykorzystać metodę translate. Z funkcji proszę zwrócić listę dwuelementowych krotek (x, f(x)), dla 10 losowych liczb rzeczywistych z przedziału [0,1] (2p).
 2. Proszę napisać funkcję, do której można przekazać zmienną liczbę parametrów, zwracającą listę. Do wynikowej listy trafiają elementy, które powtarzają się we wszystkich parametrach przekazanych do funkcji, np. ([1,2,3], (1,3,5), [3,2]) -> [3], ([1,2,3], (1,3,5), [3,2,1]) -> [1,3].
    Proszę użyć konstrukcji for-else (2p)

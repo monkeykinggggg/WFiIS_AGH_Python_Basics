@@ -1,3 +1,4 @@
+# Generatory
 1. Proszę napisać trzy funkcje generatorowe:
 	- zwracającą kolejną liczbę naturalną (nieskończony),
 	- zwracającą te wartości z przekazanej jako parametr sekwencji, które są liczbami doskonałymi (liczby naturalne, która są sumą wszystkich swoich dzielników właściwych)

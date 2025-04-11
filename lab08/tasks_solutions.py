@@ -132,3 +132,4 @@ dictionary_of_letters = {letter:len(lst) for letter,lst in dictionary_of_letters
 histogram = dict(sorted([(k,v) for k,v in dictionary_of_letters.items()],key = lambda x: x[1]))
 
 print(f'Histogram posortowany po liczbie slow na dana litere\n: {histogram}')
+# utworzenie wykresu histogramu w pliku: zad5_plotting.py

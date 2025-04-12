@@ -1,0 +1,13 @@
+2025-04-12 10:00:59,526 Wywołanie funkcji get_average_from_file na pliku: daty.in
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['31', '11', '2000']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['31', '2', '1960']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['29', '2', '2007']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['31', '6', '2009']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['30', '2', '1955']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['31', '2', '1978']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['30', '2', '1989']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['31', '11', '1962']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['29', '2', '1930']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['31', '6', '1965']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['31', '2', '2019']
+2025-04-12 10:00:59,528 Zignorowano datę niepoprawną: ['31', '4', '1985']

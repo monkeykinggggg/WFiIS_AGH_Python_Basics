@@ -1,3 +1,4 @@
+# Klasy
 1. Proszę utworzyć klasę IFS (Iterated Function System), a w niej (5p).:
 
 metodę inicjalizującą przyjmującą jako parametr współczynniki przekształcenia oraz prawdopodobieństwa i określającą początkowe współrzędne punktu jako (0,0),
